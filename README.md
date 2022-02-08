@@ -7,15 +7,16 @@
 
 <div align="center">
   <a href="https://github.com/GabAzevedo">
-  <img height="132em" src="https://github-readme-stats.vercel.app/api?username=GabAzevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabAzevedo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabAzevedo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabAzevedo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
    
+  ## My Skills  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Python" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gab-Django" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" alt="Gab-MySQL" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gab-Django" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img align="center" alt="Gab-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
  
   ##
