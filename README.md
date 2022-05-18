@@ -12,8 +12,15 @@
   <img align="center" alt="Gab-Django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Gab-MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
- 
-  ##
+  
+   ## Future Skills
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Gab-JavaSript" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+ <img align="center" alt="Gab-JavaSript" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+ <img align="center" alt="Gab-JavaSript" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+      </div>
+  
+ ##
   
   <div> 
   <a href="https://www.linkedin.com/in/gabriel-carvalho-ba7923209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
