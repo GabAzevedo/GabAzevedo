@@ -4,12 +4,6 @@
 - 👯 Busco a oportunidade de colaborar com o mercado de trabalho na área de desenvolvimento back-end. 
 - 📫 Como me contactar: gabriel.commit@gmail.com
 - 😄 Pronouns: ele/dele
-
-<div align="center">
-  <a href="https://github.com/GabAzevedo">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabAzevedo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabAzevedo&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
    
   ## My Skills  
   
