@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Azevedo 👋
 - 🔭 Atualmente me encontro em transição de carreira para a área de desenvolvimento back-end
-- 🌱 Atualmente estudando o framework Django.
+- 🌱 Estudando o framework Django.
 - 👯 Busco a oportunidade de colaborar com o mercado de trabalho na área de desenvolvimento back-end. 
 - 📫 Como me contactar: gabriel.commit@gmail.com
 - 😄 Pronouns: ele/dele
